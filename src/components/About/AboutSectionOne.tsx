@@ -36,12 +36,12 @@ const AboutSectionOne = () => {
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
                     <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Tailwind CSS, SCSS" />
+                    <List text="MERN, MEAN and Others" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
+                    <List text="Next.js, Node.js" />
                     <List text="Rich documentation" />
                     <List text="Developer friendly" />
                   </div>
